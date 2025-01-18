@@ -1,4 +1,4 @@
-#About me
+# About me
 
 I'm **gominokouhai** or **pajh** or **Paj**, or pretty much anything you like really, including **Hey, you**.
 
