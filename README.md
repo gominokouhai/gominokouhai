@@ -1,16 +1,20 @@
-## Hi there 👋
+#About me
 
-<!--
-**gominokouhai/gominokouhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **gominokouhai** or **pajh** or **Paj**, or pretty much anything you like really, including **Hey, you**.
 
-Here are some ideas to get you started:
+I do some random code fuckery every now and again.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently teaching myself:
+- Kotlin
+- PHP
+- Python
+- GDScript
+- inform 6
+- Github itself
+
+Yes, I have difficulty concentrating on one specific thing. But I'm having fun.
+
+Ask me about whiskies! [🥃](http://www.dramb.org)
+
+>Rubin, in some way that no one quite understands, is a master, a teacher, what the Japanese call a *sensei*. What he's the master of, really, is garbage, kipple, refuse, the sea of cast-off goods our century floats on. *Gomi no sensei*. Master of junk.
+>--William Gibson, *[The Winter Market](https://en.wikipedia.org/wiki/The_Winter_Market)* [1985]
